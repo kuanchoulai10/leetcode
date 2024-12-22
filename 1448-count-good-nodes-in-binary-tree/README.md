@@ -1,0 +1,1 @@
+# [1448. Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)

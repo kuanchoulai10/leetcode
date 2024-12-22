@@ -1,0 +1,1 @@
+# [1732. Find The Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)

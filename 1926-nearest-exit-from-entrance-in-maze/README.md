@@ -1,0 +1,1 @@
+# [1926. Nearest Exit From Entrance In Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)
