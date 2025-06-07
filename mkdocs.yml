@@ -36,3 +36,40 @@ nav:
       - 215-kth-largest-element-in-an-array/README.md
       - 347-top-k-frequent-elements/README.md
       - 373-find-k-pairs-with-smallest-sums/README.md
+    - Dynamic Programming:
+      - 70-climbing-stairs/README.md
+      - 322-coin-change/README.md
+      - 300-longest-increasing-subsequence/README.md
+      - 312-burst-balloons/README.md
+      - 416-partition-equal-subset-sum/README.md
+      - 1143-longest-common-subsequence/README.md
+    - Backtracking:
+      - 46-permutations/README.md
+      - 78-subsets/README.md
+      - 51-n-queens/README.md
+    - Binary Search:
+      - 374-guess-number-higher-or-lower/README.md
+      - 2300-successful-pairs-of-spells-and-potions/README.md
+      - 162-find-peak-element/README.md
+      - 875-koko-eating-bananas/README.md
+    - Modified Binary Search:
+      - 33-search-in-rotated-sorted-array/README.md
+      - 153-find-minimum-in-rotated-sorted-array/README.md
+      - 240-search-a-2d-matrix-ii/README.md
+    - Binary Tree Traversal:
+      - 257-binary-tree-paths/README.md
+      - 230-kth-smallest-element-in-a-bst/README.md
+      - 124-binary-tree-maximum-path-sum/README.md
+      - 107-binary-tree-level-order-traversal-ii/README.md
+    - DFS:
+      - 133-clone-graph/README.md
+      - 113-path-sum-ii/README.md
+      - 210-course-schedule-ii/README.md
+    - BFS:
+      - 102-binary-tree-level-order-traversal/README.md
+      - 994-rotting-oranges/README.md
+      - 127-word-ladder/README.md
+    - Matrix Traversal:
+      - 733-flood-fill/README.md
+      - 200-number-of-islands/README.md
+      - 130-surrounded-regions/README.md
