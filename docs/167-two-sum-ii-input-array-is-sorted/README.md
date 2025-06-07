@@ -17,5 +17,5 @@
 === "Python"
 
     ```python
-    --8<-- "./leetcode/167-two-sum-ii-input-array-is-sorted/167-two-sum-ii-input-array-is-sorted.py"
+    --8<-- "./leetcode/docs/167-two-sum-ii-input-array-is-sorted/167-two-sum-ii-input-array-is-sorted.py"
     ```
