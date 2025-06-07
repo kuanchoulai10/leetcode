@@ -6,10 +6,10 @@
 
 **Two Pointers**
 
-- [ ] [1. Two Sum](./1-two-sum/README.md)
-- [ ] [167. Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/README.md)
-- [ ] [15. 3Sum](./15-3sum/README.md)
-- [ ] [11. Container With Most Water](./11-container-with-most-water/README.md)
+- [x] [1. Two Sum](./1-two-sum/README.md)
+- [x] [167. Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/README.md)
+- [x] [15. 3Sum](./15-3sum/README.md)
+- [x] [11. Container With Most Water](./11-container-with-most-water/README.md)
 
 **Overlapping Intervals**
 
