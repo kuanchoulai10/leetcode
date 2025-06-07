@@ -1,12 +1,70 @@
 # LeetCode Problem Lists
 
-## [LeetCode 15 Patterns](https://www.youtube.com/watch?v=DjYZk8nrXVY)
+## LeetCode 15 Patterns
 
 <iframe width="885" height="498" src="https://www.youtube.com/embed/DjYZk8nrXVY" title="LeetCode was HARD until I Learned these 15 Patterns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## [Grind 75](https://leetcode.com/problem-list/rab78cw1/)
+**Two Pointers**
+
+- [ ] [1. Two Sum](./1-two-sum/README.md)
+- [ ] [167. Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/README.md)
+- [ ] [15. 3Sum](./15-3sum/README.md)
+- [ ] [11. Container With Most Water](./11-container-with-most-water/README.md)
+
+**Overlapping Intervals**
+
+- [ ] [56. Merge Intervals](./56-merge-intervals/README.md)
+- [ ] [57. Insert Interval](./57-insert-interval/README.md)
+- [ ] [435. Non-overlapping Intervals](./435-non-overlapping-intervals/README.md)
+
+**Sliding Window**
+
+- [ ] [643. Maximum Average Subarray I](./643-maximum-average-subarray-i/README.md)
+- [ ] [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/README.md)
+- [ ] [76. Minimum Window Substring](./76-minimum-window-substring/README.md)
+
+**Prefix Sum**
+
+- [ ] [303. Range Sum Query - Immutable](./303-range-sum-query-immutable/README.md)
+- [ ] [525. Contiguous Array](./525-contiguous-array/README.md)
+- [ ] [560. Subarray Sum Equals K](./560-subarray-sum-equals-k/README.md)
+
+**Fast and Slow Pointers**
+
+- [ ] [141. Linked List Cycle](./141-linked-list-cycle/README.md)
+- [ ] [202. Happy Number](./202-happy-number/README.md)
+- [ ] [287. Find the Duplicate Number](./287-find-the-duplicate-number/README.md)
+
+**Linked List In-place Reversal**
+
+- [ ] [206. Reverse Linked List](./206-reverse-linked-list/README.md)
+- [ ] [92. Reverse Linked List II](./92-reverse-linked-list-ii/README.md)
+- [ ] [24. Swap Nodes in Pairs](./24-swap-nodes-in-pairs/README.md)
+
+**Monotonic Stack**
+
+- [ ] [496. Next Greater Element I](./496-next-greater-element-i/README.md)
+- [ ] [739. Daily Temperatures](./739-daily-temperatures/README.md)
+- [ ] [84. Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram/README.md)
+
+**Top K Elements**
+
+- [ ] [215. Kth Largest Element in an Array](./215-kth-largest-element-in-an-array/README.md)
+- [ ] [347. Top K Frequent Elements](./347-top-k-frequent-elements/README.md)
+- [ ] [373. Find K Pairs with Smallest Sums](./373-find-k-pairs-with-smallest-sums/README.md)
+
+
+
+
+
 
 ## [Advanced SQL 50](https://leetcode.com/studyplan/premium-sql-50/)
 
-## [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+
+
+
+## References
+
+- [Grind 75](https://leetcode.com/problem-list/rab78cw1/)
+- [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
