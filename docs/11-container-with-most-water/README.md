@@ -15,7 +15,7 @@
 
 ## Implementation
 
-=== Python
+=== "Python"
 
     ```python
     --8<-- "./leetcode/docs/11-container-with-most-water/11-container-with-most-water.py"
