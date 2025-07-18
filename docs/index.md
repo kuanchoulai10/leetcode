@@ -13,8 +13,8 @@
 
     **Overlapping Intervals**
 
-    - [ ] [56. Merge Intervals](./56-merge-intervals/README.md)
-    - [ ] [57. Insert Interval](./57-insert-interval/README.md)
+    - [x] [56. Merge Intervals](./56-merge-intervals/README.md)
+    - [x] [57. Insert Interval](./57-insert-interval/README.md)
     - [ ] [435. Non-overlapping Intervals](./435-non-overlapping-intervals/README.md)
 
     **Sliding Window**
