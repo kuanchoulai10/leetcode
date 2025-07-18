@@ -6,10 +6,10 @@
 
 
 
-| **Solution Approach** | **Explanation (1-minute)** | **Time Complexity** | **Space Complexity** | 
-|---|---|---|---|
-| Brute Force (Nested Loop) | Calculate the area for every possible pair of lines using nested loops. Keep track of the maximum area found. This approach is straightforward but inefficient. | $O(n²)$: Double loop to check all pairs. | $O(1)$: Constant space for variables only. | 
-| Two-pointer technique | Use two pointers, one at each end of the array, to represent the lines. Calculate the area and move the pointer with the shorter line inward to potentially find a larger area. Continue until the pointers meet. This approach is efficient and leverages the idea that a shorter line limits the maximum area. | $O(n)$: Single pass as we move pointers inward. | $O(1)$: Constant space with only two pointers. | 
+| **Solution Approach**     | **Explanation (1-minute)**                                                                                                                                                                                                                                                                                       | **Time Complexity**                             | **Space Complexity**                           |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| **Brute Force (Nested Loop)** | Calculate the area for every possible pair of lines using nested loops. Keep track of the maximum area found. This approach is straightforward but inefficient.                                                                                                                                                  | $O(n²)$: Double loop to check all pairs.        | $O(1)$: Constant space for variables only.     |
+| **Two-pointer technique**     | Use two pointers, one at each end of the array, to represent the lines. Calculate the area and move the pointer with the shorter line inward to potentially find a larger area. Continue until the pointers meet. This approach is efficient and leverages the idea that a shorter line limits the maximum area. | $O(n)$: Single pass as we move pointers inward. | $O(1)$: Constant space with only two pointers. |
 
 
 
