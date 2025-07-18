@@ -111,6 +111,9 @@
 
     [**Advanced SQL 50**](https://leetcode.com/studyplan/premium-sql-50/)
 
+    **Advanced Topics: Window Function and CTE**
+
+    - [x] [1225. Report Contiguous Dates](./1225-report-contiguous-dates/README.md)
 
 
 === "Grind 75"
