@@ -83,8 +83,8 @@
 
     **Binary Tree Traversal**
 
-    - [ ] [257. Binary Tree Paths](./257-binary-tree-paths/README.md)
-    - [ ] [230. Kth Smallest Element in a BST](./230-kth-smallest-element-in-a-bst/README.md)
+    - [x] [257. Binary Tree Paths](./257-binary-tree-paths/README.md)
+    - [x] [230. Kth Smallest Element in a BST](./230-kth-smallest-element-in-a-bst/README.md)
     - [ ] [124. Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/README.md)
     - [ ] [107. Binary Tree Level Order Traversal II](./107-binary-tree-level-order-traversal-ii/README.md)
 
