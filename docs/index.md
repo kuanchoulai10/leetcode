@@ -50,8 +50,8 @@
     **Top K Elements**
 
     - [x] [215. Kth Largest Element in an Array](./215-kth-largest-element-in-an-array/README.md)
-    - [ ] [347. Top K Frequent Elements](./347-top-k-frequent-elements/README.md)
-    - [ ] [373. Find K Pairs with Smallest Sums](./373-find-k-pairs-with-smallest-sums/README.md)
+    - [x] [347. Top K Frequent Elements](./347-top-k-frequent-elements/README.md)
+    - [x] [373. Find K Pairs with Smallest Sums](./373-find-k-pairs-with-smallest-sums/README.md)
 
     **Dynamic Programming**
 
