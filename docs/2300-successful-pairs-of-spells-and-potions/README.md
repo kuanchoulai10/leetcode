@@ -1,3 +1,3 @@
 # [2300. Successful Pairs Of Spells And Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)
 
-[NeetCode](https://youtu.be/kMzJy9es7Hc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kMzJy9es7Hc?si=gFOEER7TEDR63Uhe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

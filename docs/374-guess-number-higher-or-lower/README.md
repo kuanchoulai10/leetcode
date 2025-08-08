@@ -1,3 +1,3 @@
 # [374. Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)
 
-[NeetCode](https://www.youtube.com/watch?v=xW4QsTtaCa4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xW4QsTtaCa4?si=GNdrUyRn_n-8QSB9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

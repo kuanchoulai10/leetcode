@@ -1,1 +1,3 @@
-# 560. Subarray Sum Equals K
+# [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fFVZt-6sgyo?si=KNISfgTU97gnzCED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
