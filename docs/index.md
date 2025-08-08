@@ -37,7 +37,7 @@
 
     **Linked List In-place Reversal**
 
-    - [ ] [206. Reverse Linked List](./206-reverse-linked-list/README.md)
+    - [x] [206. Reverse Linked List](./206-reverse-linked-list/README.md)
     - [ ] [92. Reverse Linked List II](./92-reverse-linked-list-ii/README.md)
     - [ ] [24. Swap Nodes in Pairs](./24-swap-nodes-in-pairs/README.md)
 
