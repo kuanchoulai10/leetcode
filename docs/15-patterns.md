@@ -53,7 +53,7 @@
 
 **Dynamic Programming**
 
-- [ ] [70. Climbing Stairs](./70-climbing-stairs/README.md)
+- [x] [70. Climbing Stairs](./70-climbing-stairs/README.md)
 - [ ] [322. Coin Change](./322-coin-change/README.md)
 - [ ] [300. Longest Increasing Subsequence](./300-longest-increasing-subsequence/README.md)
 - [ ] [312. Burst Balloons](./312-burst-balloons/README.md)
