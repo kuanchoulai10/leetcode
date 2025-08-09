@@ -6,9 +6,8 @@
 
 | **Solution Approach** | **Explanation (1-minute)** | **Time Complexity** | **Space Complexity** |
 | --------------------- | -------------------------- | ------------------- | -------------------- |
-| **Brute Force**       |                            |                     |                      |
-| **Lorem ipsum dolor** |                            |                     |                      |
-| **Lorem ipsum dolor** |                            |                     |                      |
+| **Brute Force**       | For each query, iterate through the range `[left, right]` and sum all elements. Simple but inefficient for multiple queries. | Init: $O(1)$, Query: $O(n)$ | $O(1)$ |
+| **Prefix Sum (Optimal)** | Precompute cumulative sums in constructor. Each query becomes $O(1)$ by subtracting prefix sums. | Init: $O(n)$, Query: $O(1)$ | $O(n)$ |
 
 
 ## Implementation
@@ -16,7 +15,7 @@
 === "Python"
 
     ```python
-    --8<-- "./leetcode/docs/xxxx/xxxx.py"
+    --8<-- "./leetcode/docs/303-range-sum-query-immutable/303-range-sum-query-immutable.py"
     ```
 
 === "JavaScript"
