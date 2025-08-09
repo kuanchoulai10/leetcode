@@ -41,7 +41,7 @@
 
 **Monotonic Stack**
 
-- [ ] [496. Next Greater Element I](./496-next-greater-element-i/README.md)
+- [x] [496. Next Greater Element I](./496-next-greater-element-i/README.md)
 - [ ] [739. Daily Temperatures](./739-daily-temperatures/README.md)
 - [ ] [84. Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram/README.md)
 
