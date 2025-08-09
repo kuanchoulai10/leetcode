@@ -23,7 +23,7 @@
 
 **Prefix Sum**
 
-- [ ] [303. Range Sum Query - Immutable](./303-range-sum-query-immutable/README.md)
+- [x] [303. Range Sum Query - Immutable](./303-range-sum-query-immutable/README.md)
 - [ ] [525. Contiguous Array](./525-contiguous-array/README.md)
 - [ ] [560. Subarray Sum Equals K](./560-subarray-sum-equals-k/README.md)
 
