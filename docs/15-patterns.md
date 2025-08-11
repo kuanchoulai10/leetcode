@@ -19,7 +19,7 @@
 
 - [x] [643. Maximum Average Subarray I](./643-maximum-average-subarray-i/README.md)
 - [x] [3. Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/README.md)
-- [ ] [76. Minimum Window Substring](./76-minimum-window-substring/README.md)
+- [x] [76. Minimum Window Substring](./76-minimum-window-substring/README.md)
 
 **Prefix Sum**
 
