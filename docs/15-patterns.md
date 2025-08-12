@@ -24,13 +24,13 @@
 **Prefix Sum**
 
 - [x] [303. Range Sum Query - Immutable](./303-range-sum-query-immutable/README.md)
-- [ ] [525. Contiguous Array](./525-contiguous-array/README.md)
+- [x] [525. Contiguous Array](./525-contiguous-array/README.md)
 - [ ] [560. Subarray Sum Equals K](./560-subarray-sum-equals-k/README.md)
 
 **Fast and Slow Pointers**
 
 - [x] [141. Linked List Cycle](./141-linked-list-cycle/README.md)
-- [ ] [202. Happy Number](./202-happy-number/README.md)
+- [x] [202. Happy Number](./202-happy-number/README.md)
 - [ ] [287. Find the Duplicate Number](./287-find-the-duplicate-number/README.md)
 
 **Linked List In-place Reversal**
@@ -55,7 +55,7 @@
 
 - [x] [70. Climbing Stairs](./70-climbing-stairs/README.md)
 - [x] [322. Coin Change](./322-coin-change/README.md)
-- [ ] [300. Longest Increasing Subsequence](./300-longest-increasing-subsequence/README.md)
+- [x] [300. Longest Increasing Subsequence](./300-longest-increasing-subsequence/README.md)
 - [ ] [312. Burst Balloons](./312-burst-balloons/README.md)
 - [ ] [416. Partition Equal Subset Sum](./416-partition-equal-subset-sum/README.md)
 - [ ] [1143. Longest Common Subsequence](./1143-longest-common-subsequence/README.md)
@@ -68,7 +68,7 @@
 
 **Binary Search**
 
-- [ ] [374. Guess Number Higher or Lower](./374-guess-number-higher-or-lower/README.md)
+- [x] [374. Guess Number Higher or Lower](./374-guess-number-higher-or-lower/README.md)
 - [ ] [2300. Successful Pairs of Spells and Potions](./2300-successful-pairs-of-spells-and-potions/README.md)
 - [ ] [162. Find Peak Element](./162-find-peak-element/README.md)
 - [ ] [875. Koko Eating Bananas](./875-koko-eating-bananas/README.md)
