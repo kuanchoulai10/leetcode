@@ -6,9 +6,8 @@
 
 | **Solution Approach** | **Explanation (1-minute)** | **Time Complexity** | **Space Complexity** |
 | --------------------- | -------------------------- | ------------------- | -------------------- |
-| **Brute Force**       |                            |                     |                      |
-| **Lorem ipsum dolor** |                            |                     |                      |
-| **Lorem ipsum dolor** |                            |                     |                      |
+| **Brute Force**       | For every subarray, count 0s and 1s; if equal, update max length. | $O(n^2)$ | $O(1)$ |
+| **Hash Map (Optimal)** | Use a running count (increment for 1, decrement for 0) and store first occurrence of each count in a hash map. If the same count is seen again, the subarray between indices has equal 0s and 1s. | $O(n)$ | $O(n)$ |
 
 
 ## Implementation
@@ -16,7 +15,7 @@
 === "Python"
 
     ```python
-    --8<-- "./leetcode/docs/xxxx/xxxx.py"
+    --8<-- "./leetcode/docs/525-contiguous-array/525-contiguous-array.py"
     ```
 
 === "JavaScript"
