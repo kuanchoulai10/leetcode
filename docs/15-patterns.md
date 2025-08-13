@@ -62,14 +62,14 @@
 
 **Backtracking**
 
-- [ ] [46. Permutations](./46-permutations/README.md)
+- [x] [46. Permutations](./46-permutations/README.md)
 - [ ] [78. Subsets](./78-subsets/README.md)
 - [ ] [51. N-Queens](./51-n-queens/README.md)
 
 **Binary Search**
 
 - [x] [374. Guess Number Higher or Lower](./374-guess-number-higher-or-lower/README.md)
-- [ ] [2300. Successful Pairs of Spells and Potions](./2300-successful-pairs-of-spells-and-potions/README.md)
+- [x] [2300. Successful Pairs of Spells and Potions](./2300-successful-pairs-of-spells-and-potions/README.md)
 - [ ] [162. Find Peak Element](./162-find-peak-element/README.md)
 - [ ] [875. Koko Eating Bananas](./875-koko-eating-bananas/README.md)
 
@@ -88,7 +88,7 @@
 
 **DFS**
 
-- [ ] [133. Clone Graph](./133-clone-graph/README.md)
+- [x] [133. Clone Graph](./133-clone-graph/README.md)
 - [ ] [113. Path Sum II](./113-path-sum-ii/README.md)
 - [ ] [210. Course Schedule II](./210-course-schedule-ii/README.md)
 
