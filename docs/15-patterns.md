@@ -25,19 +25,19 @@
 
 - [x] [303. Range Sum Query - Immutable](./303-range-sum-query-immutable/README.md)
 - [x] [525. Contiguous Array](./525-contiguous-array/README.md)
-- [ ] [560. Subarray Sum Equals K](./560-subarray-sum-equals-k/README.md)
+- [x] [560. Subarray Sum Equals K](./560-subarray-sum-equals-k/README.md)
 
 **Fast and Slow Pointers**
 
 - [x] [141. Linked List Cycle](./141-linked-list-cycle/README.md)
 - [x] [202. Happy Number](./202-happy-number/README.md)
-- [ ] [287. Find the Duplicate Number](./287-find-the-duplicate-number/README.md)
+- [x] [287. Find the Duplicate Number](./287-find-the-duplicate-number/README.md)
 
 **Linked List In-place Reversal**
 
 - [x] [206. Reverse Linked List](./206-reverse-linked-list/README.md)
 - [x] [92. Reverse Linked List II](./92-reverse-linked-list-ii/README.md)
-- [ ] [24. Swap Nodes in Pairs](./24-swap-nodes-in-pairs/README.md)
+- [x] [24. Swap Nodes in Pairs](./24-swap-nodes-in-pairs/README.md)
 
 **Monotonic Stack**
 
