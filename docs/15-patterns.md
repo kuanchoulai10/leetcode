@@ -63,7 +63,7 @@
 **Backtracking**
 
 - [x] [46. Permutations](./46-permutations/README.md)
-- [ ] [78. Subsets](./78-subsets/README.md)
+- [x] [78. Subsets](./78-subsets/README.md)
 - [ ] [51. N-Queens](./51-n-queens/README.md)
 
 **Binary Search**
@@ -75,7 +75,7 @@
 
 **Modified Binary Search**
 
-- [ ] [33. Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array/README.md)
+- [x] [33. Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array/README.md)
 - [ ] [153. Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array/README.md)
 - [ ] [240. Search a 2D Matrix II](./240-search-a-2d-matrix-ii/README.md)
 
