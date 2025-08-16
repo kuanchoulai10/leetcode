@@ -43,7 +43,7 @@
 
 - [x] [496. Next Greater Element I](./496-next-greater-element-i/README.md)
 - [x] [739. Daily Temperatures](./739-daily-temperatures/README.md)
-- [ ] [84. Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram/README.md)
+- [x] [84. Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram/README.md)
 
 **Top K Elements**
 
