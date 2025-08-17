@@ -76,7 +76,7 @@
 **Modified Binary Search**
 
 - [x] [33. Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array/README.md)
-- [ ] [153. Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array/README.md)
+- [x] [153. Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array/README.md)
 - [ ] [240. Search a 2D Matrix II](./240-search-a-2d-matrix-ii/README.md)
 
 **Binary Tree Traversal**
@@ -94,12 +94,12 @@
 
 **BFS**
 
-- [ ] [102. Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal/README.md)
+- [x] [102. Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal/README.md)
 - [ ] [994. Rotting Oranges](./994-rotting-oranges/README.md)
 - [ ] [127. Word Ladder](./127-word-ladder/README.md)
 
 **Matrix Traversal**
 
-- [ ] [733. Flood Fill](./733-flood-fill/README.md)
+- [x] [733. Flood Fill](./733-flood-fill/README.md)
 - [ ] [200. Number of Islands](./200-number-of-islands/README.md)
 - [ ] [130. Surrounded Regions](./130-surrounded-regions/README.md)
