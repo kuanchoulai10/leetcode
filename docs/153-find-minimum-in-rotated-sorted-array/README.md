@@ -8,8 +8,6 @@
 | **Solution Approach** | **Explanation (1-minute)** | **Time Complexity** | **Space Complexity** |
 | --------------------- | -------------------------- | ------------------- | -------------------- |
 | **Binary Search**     | Use binary search to find the minimum element. First check if array is not rotated (`nums[0] < nums[-1]`). Otherwise, find the element where both left and right neighbors are larger. Compare middle element with the last element to determine which half contains the minimum. | $O(\log n)$ | $O(1)$ |
-| **Lorem ipsum dolor** |                            |                     |                      |
-| **Lorem ipsum dolor** |                            |                     |                      |
 
 
 ## Implementation
